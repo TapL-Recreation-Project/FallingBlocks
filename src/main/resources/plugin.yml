@@ -1,0 +1,9 @@
+name: FallingBlocks
+version: ${project.version}
+main: me.swipez.fallingblocks.FallingBlocks
+api-version: 1.16
+authors: [ notnotnotswipez ]
+commands:
+  blockrain:
+    usage: /blockrain <start/stop>
+    description: Starts and stops the block rain challenge!
